@@ -3,6 +3,6 @@ This solver unlike others i more efficient, clean, and detailed. It is also bund
 
 Note: Install the neccesary dependencies which is:
 
->> NumPy
+> NumPy
 
 > PySide6 ( Framework )
