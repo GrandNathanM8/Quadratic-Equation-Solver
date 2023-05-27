@@ -5,4 +5,4 @@ Note: Install the neccesary dependencies which is:
 
 >> NumPy
 
->> PySide6 ( Framework )
+> PySide6 ( Framework )
